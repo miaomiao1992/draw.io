@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T07:43:48.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="YTePajw7BZ0hfe4Zfv58" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-02T07:44:26.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Vare9w8t82D4yfuOAlkC" version="24.4.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2150" dy="2229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="921" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--0" value="ERP协同应用物料信息" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="220" y="160" width="160" height="216" as="geometry">
+          <mxGeometry x="284" y="160" width="160" height="216" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -31,7 +31,7 @@
           <mxGeometry y="182" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--13" value="技术文件信息" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="50" y="450" width="160" height="156" as="geometry">
+          <mxGeometry x="114" y="450" width="160" height="156" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -51,7 +51,7 @@
           <mxGeometry y="130" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--17" value="工刀量具库存信息" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="220" y="-30" width="160" height="156" as="geometry">
+          <mxGeometry x="60" y="150" width="160" height="156" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -70,14 +70,14 @@
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--22" value="型号" style="text;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="zkfFHV4jXpPFQw0GAbJ--17" vertex="1">
           <mxGeometry y="130" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="-BCcp12Dxolwzxjl9emi-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--0">
+        <mxCell id="-BCcp12Dxolwzxjl9emi-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=-0.001;exitY=1.074;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--2" target="zkfFHV4jXpPFQw0GAbJ--20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="316" as="sourcePoint" />
-            <mxPoint x="300" y="130" as="targetPoint" />
+            <mxPoint x="524" y="316" as="sourcePoint" />
+            <mxPoint x="364" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-BCcp12Dxolwzxjl9emi-10" value="产品图册信息" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="160" width="160" height="182" as="geometry">
+          <mxGeometry x="544" y="160" width="160" height="182" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -101,26 +101,26 @@
         </mxCell>
         <mxCell id="-BCcp12Dxolwzxjl9emi-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--0" target="zkfFHV4jXpPFQw0GAbJ--13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="410" as="sourcePoint" />
-            <mxPoint x="536" y="411" as="targetPoint" />
+            <mxPoint x="444" y="410" as="sourcePoint" />
+            <mxPoint x="600" y="411" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="260" y="400" />
-              <mxPoint x="130" y="400" />
+              <mxPoint x="324" y="400" />
+              <mxPoint x="194" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-BCcp12Dxolwzxjl9emi-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--0" target="-BCcp12Dxolwzxjl9emi-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="240" as="sourcePoint" />
-            <mxPoint x="480" y="410" as="targetPoint" />
+            <mxPoint x="454" y="240" as="sourcePoint" />
+            <mxPoint x="544" y="410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="340" y="400" />
-              <mxPoint x="470" y="400" />
+              <mxPoint x="404" y="400" />
+              <mxPoint x="534" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-BCcp12Dxolwzxjl9emi-30" value="采购信息" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="450" width="160" height="182" as="geometry">
+          <mxGeometry x="454" y="450" width="160" height="182" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -144,8 +144,8 @@
         </mxCell>
         <mxCell id="-BCcp12Dxolwzxjl9emi-40" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--1" target="-BCcp12Dxolwzxjl9emi-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="190" as="sourcePoint" />
-            <mxPoint x="510" y="264" as="targetPoint" />
+            <mxPoint x="444" y="190" as="sourcePoint" />
+            <mxPoint x="574" y="264" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
